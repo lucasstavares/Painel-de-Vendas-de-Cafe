@@ -22,23 +22,28 @@ Além dos principais indicadores apresentados no painel (Vendas por País e Top 
 
 1. **Qual tipo de café possui a menor margem de lucro?**  
    *Arábica Escura 0.2 kg*
-   ![Menor margem de lucro](images/Robusta_0.2_menor_lucro_tabela.png)
+
+![Menor margem de lucro](images/Robusta_0.2_menor_lucro_tabela.png)
 
 2. **Qual torra possui a maior margem de lucro?**  
    *Libérica 2.5 kg*
-   ![Libérica maior margem de lucro](images/Libérica_2.5_maior_lucro_tabela.png)
+
+![Libérica maior margem de lucro](images/Libérica_2.5_maior_lucro_tabela.png)
 
 3. **Qual torra possui o maior volume de vendas?**  
    *Arábica*
-   ![Arábica maior volume de vendas](images/Arábica_maior_venda_tabela.png)
+
+![Arábica maior volume de vendas](images/Arábica_maior_venda_tabela.png)
 
 4. **Qual tamanho possui o maior volume de vendas?**  
    *0.5 kg*
-   ![Tamanho mais popular em vendas](images/0.5kg_maior_volume_tabela.png)
+
+![Tamanho mais popular em vendas](images/0.5kg_maior_volume_tabela.png)
 
 5. **Qual tamanho gera mais lucro?**  
    *Arábica Clara 2.5 kg*
-   ![Top 5 Produtos com Maior Lucro Total](images/top_5_lucro_total.png)
+   
+![Top 5 Produtos com Maior Lucro Total](images/top_5_lucro_total.png)
 
 ## Autores
 Lucas Tavares
