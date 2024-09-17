@@ -1,4 +1,4 @@
-![eng](https://img.shields.io/badge/lang-en-red)
+[![eng](https://img.shields.io/badge/lang-en-red)](https://github.com/lucasstavares/Painel-de-Vendas-de-Cafe/blob/master/README.en.md)
 # Painel de Vendas de Café
 ![image](https://github.com/lucasstavares/vendascaf-/assets/67264284/ce6af3c1-9371-4fea-9887-7483304205f3)
 # Projeto 
@@ -48,7 +48,6 @@ Além dos principais indicadores apresentados no painel (Vendas por País e Top 
 ## Autores
 Lucas Tavares
 - [Linkedin]()
-
 
 ## Referências
  - [Coffee Order Data](https://www.kaggle.com/datasets/effierodriguez/coffee-order-data)
